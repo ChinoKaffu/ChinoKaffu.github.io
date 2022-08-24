@@ -1,7 +1,9 @@
 # ChinoKaffu.github.io
 # *Project title*
 
-*Short description of your project, in one or two sentences.* 
+*A personal webpage for and by Kaffu Chino* 
+Everyone is welcome to come and visit and have a peek into my life
+This will serve as my blog page on my journey of being a Computer Engineer
 
 ## Setup 
 
@@ -11,14 +13,11 @@
 
 ### Installation
 
-* Mac OS X
-* Ubuntu
-* Windows (if applicable)
+There is none
 
 ### Getting started
 
-*What does your user need to know to get everything ready after installation?*
-*Think about databases, config files, and settings.*
+Just go to [chinokaffu.github.io](chinokaffu.github.io) to access the site
 
 ## Usage
 
@@ -32,9 +31,9 @@
 
 ## Team
 
-* *Name, Organization - role or tasks worked on*
+Purely made and corporated by J.C.
 
-*Add a "contributors" section if you've incorporated pull requests.*
+Assets used in this project are FOSS
 
 ## Errors and bugs
 
